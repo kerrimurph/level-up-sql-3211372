@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"explorer.openEditors.visible": 0,
+		"files.autoSave": "afterDelay",
+		"screencastMode.onlyKeyboardShortcuts": true,
+		"terminal.integrated.fontSize": 18,
+		"workbench.activityBar.visible": true,
+		"workbench.colorTheme": "Visual Studio Dark",
+		"workbench.statusBar.visible": true
+	}
+}
